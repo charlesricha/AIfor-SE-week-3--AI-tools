@@ -10,7 +10,7 @@ This repository contains hands-on implementations of Classical Machine Learning,
 
 <!-- 🌐 Project Grid -->
 <style>
-  .task-grid {
+.task-grid {
     display: flex;
     flex-wrap: wrap;
     gap: 20px;
@@ -18,7 +18,7 @@ This repository contains hands-on implementations of Classical Machine Learning,
     margin-top: 30px;
   }
 
-  .task-box {
+.task-box {
     flex: 1 1 300px;
     max-width: 300px;
     background: #f9f9f9;
@@ -50,7 +50,7 @@ This repository contains hands-on implementations of Classical Machine Learning,
     display: block;
   }
 
-  .task-box p {
+.task-box p {
     padding: 12px;
     font-size: 0.95rem;
     color: #333;
