@@ -89,7 +89,6 @@ This repository contains hands-on implementations of Classical Machine Learning,
 
 </div>
 
-</style>
 
 
 ## 📚 Table of Contents
